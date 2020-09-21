@@ -1,0 +1,9 @@
+﻿body {
+
+}
+
+@grid.GetHtml ( columns: grid.Columns(
+        grid.Column("Title"),
+        grid.Column("Description"),
+        grid.Column("Prix"),
+        grid.Column("Photo") ) );

@@ -1,0 +1,36 @@
+body
+{
+	/*background-color:black;*/
+}
+
+.test{
+
+	margin-top:0px;
+	margin-left:50px;
+}
+
+#sec1{
+background-color:white
+
+}
+
+section{
+	height:800px;
+	width:810px;
+
+	margin:auto;
+}
+
+img
+{
+}
+.choix
+{
+	
+	width:197px;
+	height:160px;
+    opacity:0.5;
+	position: relative;
+
+}
+

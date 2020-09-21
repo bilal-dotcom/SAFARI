@@ -1,0 +1,13 @@
+﻿body {
+
+
+}
+
+.entete {
+    padding-top: 15px;
+    padding-left: 15px;
+    background-color: grey;
+    height: 45px;
+    border: 4px solid greydark;
+}
+

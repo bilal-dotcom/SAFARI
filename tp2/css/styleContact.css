@@ -1,0 +1,122 @@
+﻿body {
+
+    
+}
+
+
+.address {
+    list-style-image: url("imgGal\imm1.jpg");
+   /*list-style-type: lower-roman;*/
+}
+
+ul {
+    list-style-image: url("imgGal\imm1.jpg");
+     /*list-style-type: upper-roman;*/
+}
+
+#box {
+    background-color: white;
+    height: 800px;
+    padding:0px 20px 0px 20px;
+    margin:0px 40px 0px 40px;
+    font-size:large;
+   
+}
+
+#box1 {
+    width: 23%;
+    height: 500px;
+    float: left;
+    /*border: 4px solid grey;*/
+    margin: 8px auto auto 27px
+}
+
+#box2 {
+    float:right;
+    width: 58%;
+    height: 500px;
+    margin-left: 35px;
+    margin-top: 14px;
+    margin-right:20px;
+}
+
+#nom {
+    height: 40px;
+}
+
+#phone {
+    height: 40px;
+    border: 2px solid black;
+}
+
+#email {
+    height: 40px;
+    border: 2px solid black;
+}
+
+#msg {
+    height: 135px;
+    width:506px;
+    margin-top: 21px;
+    border: 2px solid black;
+}
+
+#save {
+    height: 60px;
+    width: 120px;
+    margin-left: 28px;
+    margin-top: 28px;
+     border: 2px solid black;
+     background-color: orange;
+}
+
+#clr {
+    height: 60px;
+    width: 120px;
+    margin-left: 28px;
+    margin-top: 28px;
+    border: 2px solid black;
+    background-color: orange;
+
+}
+
+#TextBoxMsg {
+    width: 100%;
+    height:100px;
+}
+
+input[type=text], select, textarea {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+    input[type=submit] {
+        background-color: #4CAF50;
+        color: white;
+        padding: 12px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+
+        input[type=submit]:hover {
+            background-color: #45a049;
+        }
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.icon {
+   // padding: 10px;
+    color: gray;
+    min-width: 50px;
+    text-align: center;
+}
